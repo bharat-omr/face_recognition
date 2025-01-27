@@ -1,0 +1,4 @@
+venv/
+*.pt
+attendance_log.txt
+.vscode/
