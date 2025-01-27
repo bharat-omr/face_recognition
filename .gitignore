@@ -1,4 +1,5 @@
 venv/
 *.pt
 attendance_log.txt
-.vscode/
+C:\Users\USER\Desktop\face_reco\.vscode
+*.json
